@@ -1,0 +1,15 @@
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\bin\Debug\net6.0\Execi2.exe
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\bin\Debug\net6.0\Execi2.deps.json
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\bin\Debug\net6.0\Execi2.runtimeconfig.json
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\bin\Debug\net6.0\Execi2.dll
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\bin\Debug\net6.0\Execi2.pdb
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.csproj.AssemblyReference.cache
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.AssemblyInfoInputs.cache
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.AssemblyInfo.cs
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.csproj.CoreCompileInputs.cache
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.dll
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\refint\Execi2.dll
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.pdb
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\Execi2.genruntimeconfig.cache
+D:\HainPROG\C#\Seminar2\DZ2\Execi2\obj\Debug\net6.0\ref\Execi2.dll
